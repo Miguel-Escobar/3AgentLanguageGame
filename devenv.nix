@@ -11,7 +11,6 @@
   # https://devenv.sh/languages/
   languages.python.enable = true;
   languages.python.version = "3.12.8";
-  languages.python.uv.enable = true;
   languages.python.venv.enable = true;
   languages.python.venv.requirements = ./requirements.txt;
 
